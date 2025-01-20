@@ -7,31 +7,81 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>睫角守宫咖啡馆</copyright>
-        <lastBuildDate>Tue, 21 Jan 2025 02:28:33 +0800</lastBuildDate><atom:link href="https://taychih.github.io/crestedgecko/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Crested Gecko</title>
-        <link>https://taychih.github.io/crestedgecko/p/crested-gecko/</link>
+        <lastBuildDate>Tue, 21 Jan 2025 03:38:24 +0800</lastBuildDate><atom:link href="https://taychih.github.io/crestedgecko/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我我我我</title>
+        <link>https://taychih.github.io/crestedgecko/p/%E6%88%91%E6%88%91%E6%88%91%E6%88%91/</link>
+        <pubDate>Tue, 21 Jan 2025 02:37:20 +0800</pubDate>
+        
+        <guid>https://taychih.github.io/crestedgecko/p/%E6%88%91%E6%88%91%E6%88%91%E6%88%91/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>睫角守宫科普</title>
+        <link>https://taychih.github.io/crestedgecko/p/%E7%9D%AB%E8%A7%92%E5%AE%88%E5%AE%AB%E7%A7%91%E6%99%AE/</link>
         <pubDate>Tue, 21 Jan 2025 00:44:14 +0800</pubDate>
         
-        <guid>https://taychih.github.io/crestedgecko/p/crested-gecko/</guid>
-        <description>&lt;h1 id=&#34;探索markdown的魅力&#34;&gt;探索Markdown的魅力
-&lt;/h1&gt;&lt;p&gt;Markdown 是一种轻量级的标记语言，它使用简单的语法规则，让我们能够快速编写结构清晰的文档。无论是开发人员、作家还是普通用户，Markdown 都能帮助你高效地记录信息。&lt;/p&gt;
+        <guid>https://taychih.github.io/crestedgecko/p/%E7%9D%AB%E8%A7%92%E5%AE%88%E5%AE%AB%E7%A7%91%E6%99%AE/</guid>
+        <description>&lt;h1 id=&#34;睫角守宫简介&#34;&gt;睫角守宫简介
+&lt;/h1&gt;&lt;h2 id=&#34;基本信息&#34;&gt;基本信息
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;学名&lt;/strong&gt;：&lt;em&gt;Correlophus ciliatus&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;产地&lt;/strong&gt;：南太平洋新喀里多尼亚群岛&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;寿命&lt;/strong&gt;：在人工饲养环境下，寿命通常为 10-15 年，若饲养得当，部分个体甚至可存活更久&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;markdown-的核心功能&#34;&gt;Markdown 的核心功能
-&lt;/h2&gt;&lt;h3 id=&#34;1-标题&#34;&gt;1. 标题
-&lt;/h3&gt;&lt;p&gt;使用 &lt;code&gt;#&lt;/code&gt; 表示不同层级的标题：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# 一级标题
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## 二级标题
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;### 三级标题
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;h2 id=&#34;外形特征&#34;&gt;外形特征
+&lt;/h2&gt;&lt;h3 id=&#34;1-体型&#34;&gt;1. &lt;strong&gt;体型&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;成年睫角守宫体长一般为 8-12 英寸（约 20-30 厘米），尾巴长度约占整体的三分之一。&lt;/li&gt;
+&lt;li&gt;体型小巧，适合作为宠物饲养，不会占用过多空间。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-眼睛&#34;&gt;2. &lt;strong&gt;眼睛&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;拥有一对又大又圆的眼睛，没有眼睑，表面覆盖透明保护膜。&lt;/li&gt;
+&lt;li&gt;这不仅使眼睛看起来格外明亮，也为其夜行活动提供了良好的视觉基础。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-皮肤与颜色&#34;&gt;3. &lt;strong&gt;皮肤与颜色&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;皮肤柔软，表面覆盖细小鳞片。&lt;/li&gt;
+&lt;li&gt;体色丰富多样，包括棕色、灰色、红色、黄色等，常伴有虎纹、豹纹等独特斑纹。&lt;/li&gt;
+&lt;li&gt;每一只睫角守宫的体色和斑纹都独一无二。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-睫角&#34;&gt;4. &lt;strong&gt;睫角&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;在眼睛上方有一排类似睫毛的突起，这些突起是其“睫角守宫”名字的由来。&lt;/li&gt;
+&lt;li&gt;睫角既具有装饰性，也有助于感知周围环境。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;生理特性&#34;&gt;生理特性
+&lt;/h2&gt;&lt;h3 id=&#34;1-脚趾结构&#34;&gt;1. &lt;strong&gt;脚趾结构&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;脚趾上具有特殊的刚毛结构，可轻松攀爬各种表面，包括垂直玻璃和天花板。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-自截与再生&#34;&gt;2. &lt;strong&gt;自截与再生&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;像许多蜥蜴一样，睫角守宫在遇到危险时会自行断尾以分散捕食者注意力，从而逃脱危险。&lt;/li&gt;
+&lt;li&gt;然而，其尾巴再生能力较弱，再生的尾巴与原来的有所不同。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;推荐饲养理由&#34;&gt;推荐饲养理由
+&lt;/h2&gt;&lt;h3 id=&#34;1-饲养难度低&#34;&gt;1. &lt;strong&gt;饲养难度低&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;环境布置&lt;/strong&gt;：只需配备合适大小的饲养箱，加热灯、温度计、水盆、躲避屋和攀爬物等基本设施即可。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;食物多样&lt;/strong&gt;：睫角守宫既可食用蟋蟀、蟑螂等昆虫，也可吃果泥和专门的守宫饲料，喂养简单且方便。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-互动性良好&#34;&gt;2. &lt;strong&gt;互动性良好&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;温顺亲人&lt;/strong&gt;：睫角守宫性格温和，通常不会主动攻击人类。经过适当驯化，可与主人建立良好互动关系，能安静地待在主人的手上或身上。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;易于观察&lt;/strong&gt;：作为夜行性动物，活动时间与大多数人的作息不冲突，可在晚上欣赏它们的活动，增添生活乐趣。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-观赏价值高&#34;&gt;3. &lt;strong&gt;观赏价值高&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;独特外形&lt;/strong&gt;：睫角守宫外形独特，明亮的大眼睛和丰富多样的体色斑纹，使其在静止和活动状态下都极具观赏价值。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;行为有趣&lt;/strong&gt;：爬行时的四肢和尾巴协调运动，以及在树枝间攀爬、跳跃的动作，充满趣味性，让人百看不厌。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;睫角守宫以其独特的外形、温顺的性格、简单的饲养需求以及趣味十足的行为，成为一种深受欢迎的宠物选择。无论是新手还是资深爬宠爱好者，都可以轻松享受饲养睫角守宫的乐趣。&lt;/p&gt;
+</description>
         </item>
         
     </channel>

@@ -70,7 +70,7 @@
         
         <div class="site-meta">
             <h1 class="site-name"><a href="/crestedgecko">睫角守宫咖啡馆</a></h1>
-            <h2 class="site-description"></h2>
+            <h2 class="site-description">欢迎来到睫角守宫爱好者的部落格~</h2>
         </div>
     </header><ol class="menu-social">
             
@@ -197,7 +197,7 @@
         
         
         <li >
-            <a href='/crestedgecko/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/' >
+            <a href='/crestedgecko/%E9%93%BE%E6%8E%A5/' >
                 
                 
                 
@@ -210,7 +210,7 @@
 
 
                 
-                <span>友情链接</span>
+                <span>链接</span>
             </a>
         </li>
         
@@ -308,7 +308,7 @@
 <style>
   @font-face {
     font-family: '汇文港黑';
-    src: url(https://taychih.github.io/crestedgecko/font/%E6%B1%87%E6%96%87%E6%B8%AF%E9%BB%91v1.001.ttf) format('truetype');
+    src: url(https://taychih.github.io/crestedgecko/font/JinzisheZhenhao-Bold.otf) format('truetype');
   }
 
   :root {
@@ -362,6 +362,54 @@
 
     initScrollTop();
 </script>
+
+<style>
+    #TableOfContents > ul, ol {
+        ul, ol {
+            display: none;
+        }
+        .open {
+            display: block;
+        }
+    }
+</style>
+
+<script>
+    function initTocHide() {
+        
+        let toc = document.querySelector(".widget--toc");
+        if (!toc) {
+            return;
+        }
+        
+        window.addEventListener('scroll', function() {
+            
+            let currentLi = document.querySelector(".active-class");
+            if (!currentLi) {
+                return
+            }
+            
+            let elementsByClassName = document.querySelectorAll(".open");
+            if (elementsByClassName.length > 0) {
+                elementsByClassName.forEach((ul) => {
+                    ul.classList.remove("open")
+                })
+            }
+            
+            if (currentLi.children.length > 1) {
+                currentLi.children[1].classList.add("open")
+            }
+            
+            let ul = currentLi.parentElement;
+            do {
+                ul.classList.add("open");
+                ul = ul.parentElement.parentElement
+            } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
+        });
+    }
+    initTocHide()
+</script>
+
 
     </body>
 </html>
